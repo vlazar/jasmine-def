@@ -8,3 +8,4 @@ ratings:
   - lib/**/*
 exclude_paths:
 - test/**/*
+- .*
